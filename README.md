@@ -1,4 +1,3 @@
-# Ali-Mustafa
 <h1 align="center">Whats up! My name is Ali Mustafa</h1>
 <h3 align="center">A Software developer from New York!</h3>
 
