@@ -1,5 +1,5 @@
 # Ali-Mustafa
-<h1 align="center">I see you... My name is Ali Mustafa</h1>
+<h1 align="center">Whats up! My name is Ali Mustafa</h1>
 <h3 align="center">A Software developer from New York!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimustafa100&label=Profile%20views&color=0e75b6&style=flat" alt="alimustafa100" /> </p>
